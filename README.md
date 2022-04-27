@@ -1,4 +1,4 @@
-# [Video](https://ohxu.github.io/MPR_GAN_project/)
+# [Video](https://ohxu.github.io/MPR_GAN_web/)
 ## Environments
 PyTorch 1.7 <br>
 Python 3.6 <br>
